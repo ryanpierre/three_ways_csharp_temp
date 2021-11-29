@@ -1,4 +1,4 @@
-# C# Three Ways
+# C# ~Three~ Two Ways
 
 <!-- OMITTED -->
 
@@ -19,9 +19,7 @@ You will do this through three projects:
 2. **Bank**
    You will use C# to test-drive a bank application using Object Oriented Programming. You will learn how to test-drive an application using objects and methods that interact with each other, how to isolate your tests, and how to manage state.
 
-3. **Twitter [NOT LIKE THIS]**
-   You will use C# and {{FRAMEWORK}} to test-drive a database-backed web application much like Twitter. You will learn how to build in this framework, how to test drive it, and handle a more realistic degree of debugging and complexity.
-
+3. No.
 
 [Get started with Fizzbuzz](01_fizzbuzz.md)
 
