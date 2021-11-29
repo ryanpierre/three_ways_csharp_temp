@@ -7,7 +7,6 @@ This module is designed for people who want to learn the C# programming language
 * Learn to use C#'s basic syntax.
 * Learn to test-drive simple procedural programming problems using C#.
 * Learn to test-drive programs in C# using Object Oriented Programming.
-* Learn to test-drive database-backed web applications using {{FRAMEWORK}}, a common web framework for C#.
 
 <!-- OMITTED -->
 
