@@ -11,7 +11,7 @@ Let's get started.
 Go ahead and install these prerequisites.
 
 * Head over to [Microsoft](https://visualstudio.microsoft.com/downloads/) and download Visual Studio for Mac. Follow the instructions to install it on your computer.
-* The first time you open VSCode, you'll be asked "What would you like to install?". Make sure only `.NET Core` is selected and hit "Install and Update"
+* The first time you open Visual Studio, you'll be asked "What would you like to install?". Make sure only `.NET Core` is selected and hit "Install and Update"
 * When asked to Sign In, skip for now. If you prefer the VSCode keyboard bindings, select those. If you don't have a preference yet, chose the Visual Studio for Mac ones.
 
 ## Hello World
